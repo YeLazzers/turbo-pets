@@ -1,0 +1,3 @@
+[submodule ".claude/frontend-agency"]
+	path = .claude/frontend-agency
+	url = ../frontend-agency

@@ -33,7 +33,7 @@ turbo-pets/
 Агентство пока не подключено как submodule. После публикации `frontend-agency` на GitHub:
 
 ```bash
-git submodule add https://github.com/you/frontend-agency .claude/agency
+git submodule add https://github.com/YeLazzers/frontend-agency .claude/agency
 ```
 
 Затем раскомментировать в `CLAUDE.md`:
