@@ -1,3 +1,3 @@
-[submodule ".claude/frontend-agency"]
-	path = .claude/frontend-agency
-	url = ../frontend-agency
+[submodule "frontend-agency"]
+	path = frontend-agency
+	url = https://github.com/YeLazzers/frontend-agency

@@ -7,7 +7,7 @@ Turborepo монорепо для pet-проектов.
 <!-- После добавления submodule выполни:
      git submodule add https://github.com/you/frontend-agency .claude/agency
      Затем раскомментируй строку ниже: -->
-@.claude/frontend-agency/CLAUDE.md
+@frontend-agency/CLAUDE.md
 
 ## Stack (default)
 

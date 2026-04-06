@@ -1,5 +1,5 @@
 {
-  "extends": "@turbo-pets/config/tsconfig/react.json",
+  "extends": "@turbo-pets/config/tsconfig/react",
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {

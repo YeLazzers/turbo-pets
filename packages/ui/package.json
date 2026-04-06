@@ -9,15 +9,12 @@
     "lint": "eslint src/",
     "typecheck": "tsc --noEmit"
   },
-  "dependencies": {
-    "react": "^18.0.0"
-  },
   "devDependencies": {
     "@turbo-pets/config": "workspace:*",
-    "@types/react": "^18.0.0",
-    "typescript": "^5.0.0"
+    "react": "catalog:",
+    "typescript": "catalog:"
   },
   "peerDependencies": {
-    "react": "^18.0.0"
+    "react": "catalog:"
   }
 }
